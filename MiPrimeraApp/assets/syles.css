@@ -1,0 +1,22 @@
+/* Fondo más limpio para las tarjetas */
+.result-card {
+  background: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos de cada ticket */
+.result-card h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Ajustes a los textos */
+.result-card p {
+  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+  color: #6c757d;
+}

@@ -1,0 +1,1607 @@
+[
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/1.json",
+    "id": 1,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:37:10Z",
+    "updated_at": "2024-11-19T07:39:40Z",
+    "generated_timestamp": 1732001981,
+    "type": "incident",
+    "subject": "TICKET DE MUESTRA: le presentamos el ticket",
+    "raw_subject": "TICKET DE MUESTRA: le presentamos el ticket",
+    "description": "Hola:\n\nLe envío un correo electrónico porque tengo problemas para configurar su nuevo producto. ¿Puede ayudarme a solucionar el problema?\n\nGracias,\n El cliente\n\n",
+    "priority": "normal",
+    "status": "pending",
+    "recipient": null,
+    "requester_id": 22719088276114,
+    "submitter_id": 22719087691794,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "de",
+      "muestra",
+      "support",
+      "zendesk"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088090258,
+    "encoded_id": "E31RVN-ERE12",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/2.json",
+    "id": 2,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:21Z",
+    "updated_at": "2024-11-19T07:38:21Z",
+    "generated_timestamp": 1732001902,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Producto dañado",
+    "raw_subject": "TICKET DE MUESTRA: Producto dañado",
+    "description": "Hola. Hoy recibí mi sillón por correo y noté que el material tiene una rotura.\n\nDeseo que se me envíe un reemplazo o que se me emita un reembolso.",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719120963986,
+    "submitter_id": 22719120963986,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "D41Z07-4YX9P",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/3.json",
+    "id": 3,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:22Z",
+    "updated_at": "2024-11-19T07:38:22Z",
+    "generated_timestamp": 1732001902,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: El estado del pedido indica que aún se está procesando",
+    "raw_subject": "TICKET DE MUESTRA: El estado del pedido indica que aún se está procesando",
+    "description": "El estado de mi pedido está en “En procesamiento” hace 3 días. ¿Por qué no se envió todavía?",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719120990610,
+    "submitter_id": 22719120990610,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "order",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "E31RYD-VK2X2",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/4.json",
+    "id": 4,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:23Z",
+    "updated_at": "2024-11-19T07:38:23Z",
+    "generated_timestamp": 1732001904,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Reposición de artículos",
+    "raw_subject": "TICKET DE MUESTRA: Reposición de artículos",
+    "description": "Hola: He observado que no hay existencias del almohadón de acacia. Quiero comprarlo para el cumpleaños de mi amigo el próximo mes. ¿Saben cuándo lo reabastecerán?",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719091919506,
+    "submitter_id": 22719091919506,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "other",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2D3-Z0KXR",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/5.json",
+    "id": 5,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:24Z",
+    "updated_at": "2024-11-19T07:38:24Z",
+    "generated_timestamp": 1732001904,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Envíos internacionales",
+    "raw_subject": "TICKET DE MUESTRA: Envíos internacionales",
+    "description": "Hola. Me gustaría comprar uno de sus productos y enviárselo a un amigo en Portugal. ¿Hacen envíos al extranjero?",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719153469330,
+    "submitter_id": 22719153469330,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "other",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "E31RY3-46KJ6",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/6.json",
+    "id": 6,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:25Z",
+    "updated_at": "2024-11-19T07:38:25Z",
+    "generated_timestamp": 1732001905,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Los productos son de origen ético?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Los productos son de origen ético?",
+    "description": "Hola. Estoy interesado en algunos de sus productos, pero quiero saber si sus materiales son de origen sustentable y ético antes de comprarlos.",
+    "priority": "low",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719153510674,
+    "submitter_id": 22719153510674,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "other",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "JDL2KD-NZ2DV",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/7.json",
+    "id": 7,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:26Z",
+    "updated_at": "2024-11-19T07:38:26Z",
+    "generated_timestamp": 1732001908,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Dirección incorrecta",
+    "raw_subject": "TICKET DE MUESTRA: Dirección incorrecta",
+    "description": "Hola. Acabo de comprar un artículo y me doy cuenta de que usé una dirección de entrega incorrecta. ¿Me pueden ayudar?",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719105769234,
+    "submitter_id": 22719105769234,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "397WDP-4Z22K",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/8.json",
+    "id": 8,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:26Z",
+    "updated_at": "2024-11-19T07:38:26Z",
+    "generated_timestamp": 1732001908,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Pedido de color incorrecto",
+    "raw_subject": "TICKET DE MUESTRA: Pedido de color incorrecto",
+    "description": "Hola. Sin querer compré un artículo del color incorrecto. ¿Puedo cambiar mi pedido?",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719092130962,
+    "submitter_id": 22719092130962,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2D3-ZK25G",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/9.json",
+    "id": 9,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:27Z",
+    "updated_at": "2024-11-19T07:38:27Z",
+    "generated_timestamp": 1732001908,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Reparación gratuita",
+    "raw_subject": "TICKET DE MUESTRA: Reparación gratuita",
+    "description": "Buenos días. Mi gata ha hecho trizas mi nuevo sillón. El cuero tiene orificios. ¿Ofrecen un servicio de reparación o hay una garantía para mi silla?",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719092152338,
+    "submitter_id": 22719092152338,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "other",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWD1-01DMP",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/10.json",
+    "id": 10,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:28Z",
+    "updated_at": "2024-11-19T07:38:28Z",
+    "generated_timestamp": 1732001908,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Faltan instrucciones de armado",
+    "raw_subject": "TICKET DE MUESTRA: Faltan instrucciones de armado",
+    "description": "Hola. Hace poco hice un pedido de un guardarropa en su sitio web. Llegó ayer, pero parece que faltan las instrucciones de armado.",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719105919122,
+    "submitter_id": 22719105919122,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWDP-001MP",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/11.json",
+    "id": 11,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:28Z",
+    "updated_at": "2024-11-19T07:38:28Z",
+    "generated_timestamp": 1732001909,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Envuelven para regalo?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Envuelven para regalo?",
+    "description": "Hola: ¿Su tienda ofrece envoltura para regalo? Quiero pedir un juego de mesa para una amiga y me gustaría poder enviárselo directamente, ya envuelto para regalo.",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719137319314,
+    "submitter_id": 22719137319314,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "other",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWDM-GP06G",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "other"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/12.json",
+    "id": 12,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:29Z",
+    "updated_at": "2024-11-19T07:38:29Z",
+    "generated_timestamp": 1732001910,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Cancelar pedido",
+    "raw_subject": "TICKET DE MUESTRA: Cancelar pedido",
+    "description": "¿Todavía puedo cancelar mi pedido?",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719137379090,
+    "submitter_id": 22719137379090,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "order",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "397WDE-KLVZ6",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/13.json",
+    "id": 13,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:30Z",
+    "updated_at": "2024-11-19T07:38:30Z",
+    "generated_timestamp": 1732001910,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Necesita menos artículos que los pedidos",
+    "raw_subject": "TICKET DE MUESTRA: Necesita menos artículos que los pedidos",
+    "description": "Hola. Ayer hice un pedido en su sitio web pero, por accidente, pedí 3 lámparas en lugar de 2. ¿Estoy a tiempo de realizar cambios?",
+    "priority": "urgent",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719121297682,
+    "submitter_id": 22719121297682,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "order",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2DX-DJ4LW",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "order"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/14.json",
+    "id": 14,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:31Z",
+    "updated_at": "2024-11-19T07:38:31Z",
+    "generated_timestamp": 1732001911,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Dónde está hecho?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Dónde está hecho?",
+    "description": "Hola, soy relativamente nuevo en el mundo de la compra de mueble, y un amigo me habló de la compra de viviendas. Visite su tienda en línea y estoy muy interesado en sus colecciones de muebles, pero me preocupa dónde se hacen los artículos.\n\nAdemás, veo que ofrecen algo que se llama planes de pago \"directo al consumidor\". ¿Podría explicar un poco más en qué consiste?\n\nGracias de antemano por su tiempo.\nTaylor Moore",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719120963986,
+    "submitter_id": 22719120963986,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "environment_impact",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2DW-DN19R",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/15.json",
+    "id": 15,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:31Z",
+    "updated_at": "2024-11-19T07:38:31Z",
+    "generated_timestamp": 1732001912,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Armarlo?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Armarlo?",
+    "description": "Hola, Acabo de hacer mi pedido y estoy ansioso por configurar mis nuevos muebles cuando lleguen, pero debo admitir que no soy muy hábil, así que no estoy seguro sobre la parte de ensamblaje.\n\n¿Hay instrucciones en línea? ¿Qué debo hacer si los pasos de armado son muy difíciles o complicados?\n\nSaludos,\nCarlos Garcia",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719120990610,
+    "submitter_id": 22719120990610,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "assembly",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2D5-DX2XR",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/16.json",
+    "id": 16,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:32Z",
+    "updated_at": "2024-11-19T07:38:32Z",
+    "generated_timestamp": 1732001913,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Dónde está mi pedido?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Dónde está mi pedido?",
+    "description": "Hola, recientemente derroché en un mueble muy bueno (por primera vez, vale). Recibí un correo electrónico que confirma todos los detalles con un número de pedido, pero este es el problema ... No sé cómo ver el estado de mi pedido.\n\n¿Hay alguna manera de verificar esto? ¿O puede hacerlo por mí?\nMuchas gracias,\nElla Rivera",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719091919506,
+    "submitter_id": 22719091919506,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "first_purchase",
+      "order_status",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "X5L2DW-DYREG",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/17.json",
+    "id": 17,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:32Z",
+    "updated_at": "2024-11-19T07:38:32Z",
+    "generated_timestamp": 1732001913,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Nueva dirección de entrega",
+    "raw_subject": "TICKET DE MUESTRA: Nueva dirección de entrega",
+    "description": "Hola. Parece que decidí tomar medidas y poner una dirección de entrega equivocada en mi pedido. Necesito solucionar este problema rápidamente pero no estoy seguro de cómo hacerlo.\n¿Pueden ayudarme a cambiar la dirección de entrega de mi pedido? ¿O puedo hacerlo en el sitio web? Además, ¿hay una fecha límite para cuando puedo hacer este cambio?\n\n¡Gracias por su ayuda!\n\nIngrid Van Dijk",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719153469330,
+    "submitter_id": 22719153469330,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "change_address",
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "397WDV-KMDXP",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/18.json",
+    "id": 18,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:33Z",
+    "updated_at": "2024-11-19T07:38:33Z",
+    "generated_timestamp": 1732001913,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Costo de envío",
+    "raw_subject": "TICKET DE MUESTRA: Costo de envío",
+    "description": "Hola, tengo algunos artículos geniales en mi carrito de compras en su sitio, pero antes de dar el paso, quiero saber cuánto tendré que pagar por el envío. Los números pueden asustar un poco si no se sabe para qué sirven.\n\n¿Puede ayudarme a comprender qué influye en los costos de envío? ¿Hay una calculadora o fórmula que pueda usar primero?",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719153510674,
+    "submitter_id": 22719153510674,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "397WDM-0EZZ6",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/19.json",
+    "id": 19,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:33Z",
+    "updated_at": "2024-11-19T07:38:33Z",
+    "generated_timestamp": 1732001914,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Lo pongo junto?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Lo pongo junto?",
+    "description": "Hola. Estuve explorando su sitio web y sigo viendo el término \"Entrega de paquetes sin formato\".\n\nNo estoy seguro de qué significa esto realmente. ¿Eso reduce el tiempo de espera para la entrega o solo hace que el paquete sea más pequeño?\n\nY una vez que el artículo ya está empacado, ¿significa que tengo que armarlo?\n\nAgradeceríamos su ayuda para aclarar este punto.\n\nGracias.\nSoobin Do",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719105769234,
+    "submitter_id": 22719105769234,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "delivery",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "397WDZ-6XL2K",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": "delivery"
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/20.json",
+    "id": 20,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:34Z",
+    "updated_at": "2024-11-19T07:38:34Z",
+    "generated_timestamp": 1732001914,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Devolver mi pedido",
+    "raw_subject": "TICKET DE MUESTRA: Devolver mi pedido",
+    "description": "Hola, equipo de Compradores de casa: Hace poco hice un pedido de un mueble que, lamentablemente, no queda como esperaba en mi casa.\n\n¿Cómo hago para devolverlo? ¿Hay un plazo dentro del cual debo hacer la devolución?\n\nAdemás, ¿cómo se calculará mi reembolso? Recuerdo haber leído algo al respecto dependiendo de si el artículo estaba armado o no, pero no estoy seguro.\n\nEspero poder devolver esto ... gracias.\n\nRam Sitwat",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719092130962,
+    "submitter_id": 22719092130962,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "returns",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWDP-DD4RP",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/21.json",
+    "id": 21,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:34Z",
+    "updated_at": "2024-11-19T07:38:34Z",
+    "generated_timestamp": 1732001914,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Cambiar mi pedido",
+    "raw_subject": "TICKET DE MUESTRA: Cambiar mi pedido",
+    "description": "Quiero cambiar mi compra por crédito de la tienda. Hace poco les ordené una pieza a todos, pero no queda del todo con la apariencia de mi sala de estar como esperaba.\n\nVeo que hay una opción para cambiar mi artículo por crédito de la tienda. ¿Podría aclarar cómo funciona? ¿Tengo que devolver el artículo en su paquete original? ¿Recibiré todo el crédito?\n\nAdemás, ¿podría darme una breve guía sobre cómo iniciar el proceso de intercambio a través de su sitio web?\n\nMejor\nMarcus Allen",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719092152338,
+    "submitter_id": 22719092152338,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "exchanges",
+      "returns",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "E31RYX-V7YZ6",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/22.json",
+    "id": 22,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:35Z",
+    "updated_at": "2024-11-19T07:38:35Z",
+    "generated_timestamp": 1732001915,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Cómo funciona layaway?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Cómo funciona layaway?",
+    "description": "Hola Estoy a punto de comprar algunos artículos de su colección de UrbanChic, pero el total es demasiado para pagar por adelantado. He observado que están considerando algunas opciones de pago, pero me encantaría darme más detalles. ¿Podría explicar la diferencia entre cómo funcionan el plan para comprar Layaway y el plan de pago a plazos? ¿Puedo hacer ambas cosas?\n\nAdemás, ¿existe algún umbral o condición que deba tener en cuenta al optar por estos planes de pago?\n\nEsperando su respuesta,\nJakub Wójcik",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719105919122,
+    "submitter_id": 22719105919122,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "financing",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "JDL2K9-R2Z7V",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/23.json",
+    "id": 23,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:35Z",
+    "updated_at": "2024-11-19T07:38:35Z",
+    "generated_timestamp": 1732001915,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: ¿Esto afecta mi crédito?",
+    "raw_subject": "TICKET DE MUESTRA: ¿Esto afecta mi crédito?",
+    "description": "Hola, me encanta su colección Minimalist Elegance. Pero antes de llenar mi carrito, tengo algunas preguntas sobre sus planes de pago.\n\nTengo curiosidad sobre cómo elegirlos podría ser beneficioso y cómo afectará esto a mi puntuación de crédito. ¿Podría desglosar las ventajas del plan Layaway y el plan a plazos para mí específicamente en lo que se refiere a los beneficios relacionados con el precio y la propiedad inmediata?\n\nPor último, me gustaría saber si el plan de pago que elija podría afectar el horario de entrega de mis artículos elegidos.\n\n¡Gracias por su ayuda!",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719137319314,
+    "submitter_id": 22719137319314,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "financing",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWDV-GDDMP",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/24.json",
+    "id": 24,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:35Z",
+    "updated_at": "2024-11-19T07:38:35Z",
+    "generated_timestamp": 1732001916,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: Tarjeta regalo",
+    "raw_subject": "TICKET DE MUESTRA: Tarjeta regalo",
+    "description": "Hola, tengo una amiga que se ha mudado recientemente al extranjero y estaba pensando en enviarle un regalo de bienvenida. Vi que ofrecen tarjetas de regalo internacionales, pero no estoy seguro de cómo funciona todo el proceso.\n\n¿Podría explicarnos? Por ejemplo, ¿cuáles son las denominaciones, cómo determinamos la moneda del destinatario y cómo personalizar la tarjeta de regalo?\n\nSaludos,\nBlake Jackson",
+    "priority": "normal",
+    "status": "open",
+    "recipient": null,
+    "requester_id": 22719114583954,
+    "submitter_id": 22719114583954,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "gift_cards",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719088088338,
+    "encoded_id": "51KWDN-99K42",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  },
+  {
+    "url": "https://metaenlace.zendesk.com/api/v2/tickets/25.json",
+    "id": 25,
+    "external_id": null,
+    "via": {
+      "channel": "sample_ticket",
+      "source": {
+        "from": {},
+        "to": {},
+        "rel": null
+      }
+    },
+    "created_at": "2024-11-19T07:38:36Z",
+    "updated_at": "2024-11-19T07:41:05Z",
+    "generated_timestamp": 1732002065,
+    "type": null,
+    "subject": "TICKET DE MUESTRA: La tarjeta de regalo está por vencer",
+    "raw_subject": "TICKET DE MUESTRA: La tarjeta de regalo está por vencer",
+    "description": "Hola, tuve la suerte de recibir una tarjeta de regalo de un amigo como regalo de bienvenida. Pequeño problema, he estado tan abrumado con la mudanza que me olvidé por completo hasta ahora y vence en una semana.\n\n¿Puede prorrogar la fecha de vencimiento?\n\nAyuda,\nLuka Jensen",
+    "priority": "normal",
+    "status": "solved",
+    "recipient": null,
+    "requester_id": 22719137379090,
+    "submitter_id": 22719137379090,
+    "assignee_id": 22719087691794,
+    "organization_id": null,
+    "group_id": 22719088097682,
+    "collaborator_ids": [],
+    "follower_ids": [],
+    "email_cc_ids": [],
+    "forum_topic_id": null,
+    "problem_id": null,
+    "has_incidents": false,
+    "is_public": true,
+    "due_at": null,
+    "tags": [
+      "gift_cards",
+      "sample_ticket"
+    ],
+    "custom_fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "satisfaction_rating": {
+      "score": "unoffered"
+    },
+    "sharing_agreement_ids": [],
+    "custom_status_id": 22719082480914,
+    "encoded_id": "X5L2D5-DED3G",
+    "fields": [
+      {
+        "id": 22719120918162,
+        "value": null
+      }
+    ],
+    "followup_ids": [],
+    "ticket_form_id": 22719082382738,
+    "brand_id": 22719088066962,
+    "allow_channelback": false,
+    "allow_attachments": true,
+    "from_messaging_channel": false
+  }
+]
